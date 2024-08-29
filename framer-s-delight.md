@@ -7,7 +7,7 @@ title: Framer’s Delight
 
 [**Farmer’s Delight (или Фермерский восторг)**](https://modrinth.com/mod/farmers-delight) - это модификация на Forge и NeoForge, от автора [vectorwing](https://modrinth.com/user/vectorwing). На сервер используется Неофициальный порт на Fabric, под названием [**”Farmer's Delight Refabricated”**](https://modrinth.com/mod/farmers-delight-refabricated) от [Pug](https://modrinth.com/user/Pug) и [MehVahdJukaar.](https://modrinth.com/user/MehVahdJukaar)
 
-Модификация добавляет кучу новых растений, видов еды, а также новые способы их приготовления. Многие растения начнут встречаться в обычном мире, или выпадать из привычных предметов. **Все рецепты можно узнать из книги рецептов в игре.** 
+Модификация добавляет новые растений, кучу видов еды, а также новые способы их приготовления. Многие растения начнут встречаться в обычном мире, или выпадать из привычных предметов. **Все рецепты можно узнать из книги рецептов в игре.** 
 
 **Гайд по моду находится** [**тут (англ.)**](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started)
 
