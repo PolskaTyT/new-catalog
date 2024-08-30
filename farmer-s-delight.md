@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Framer’s Delight
+title: Farmer’s Delight
 ---
 
 ## Обзор
