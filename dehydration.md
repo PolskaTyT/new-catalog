@@ -43,19 +43,17 @@ title: Dehydration
 
 Чтобы очистить воду, игроку нужно скрафтить **котёл для костра**. Для его крафта сперва необходимо скрафтить **медный котёл,** который крафтится, также как и обычный, но вместо железа медь.
 
-![Рецепт медного котла](public/recipe_calduron_0.png)
-
- 
-
-![Рецепт медного котла для костра](public/recipe_calduron.png)
+<p float="left">
+   <img src="public/recipe_calduron_0.png" alt="Рецепт медного котла" width="25%">
+   <img src="public/recipe_calduron.png" alt="Рецепт котла для костра" width="25%">
+</p>
 
 Затем, созданный котёл следует поставить на костёр и добавить воды, через короткий промежуток времени, вода в котле станет чистой и можно будет наливать в флягу, просто нажав по правой кнопкой по котлу, держа в руке флягу.
 
-![Грязная вода в котле](public/dirty_water_in_calduron.png)
-
- 
-
-![Чистая вода в котле](public/purified_water_in_calduron.png)
+<p float="left">
+   <img src="public/dirty_water_in_calduron.png" alt="Грязная вода в котле" width="25%">
+   <img src="public/purified_water_in_calduron.png" alt="Чистая вода в котле" width="26%">
+</p>
 
 ![Чистая вода в фляге](public/purified_water_in_flask.png)
 
@@ -69,11 +67,10 @@ title: Dehydration
 
 Для его работы требуется сначала поместить сам качок, затем поставить пустое ведро и выкачать чистую воду. У него есть перезарядка, что не даёт игроку получить воду в течении минуты, после использования.
 
-![Качок стоит без ведра](public/bamboo_pump_wiout_buck.png)
-
- 
-
-![Качок качает](public/Bamboo_pump.gif)
+<p float="left">
+   <img src="public/bamboo_pump_wiout_buck.png" alt="Качок без ведра" width="20%">
+   <img src="public/Bamboo_pump.gif" alt="Качок качает воду" width="28.5%">
+</p>
 
 ![Качок устал](public/pump_cooldown.png)
 
