@@ -15,13 +15,13 @@ title: Throwable Fluids
 
 Самый просто крафт у выбрасываемого пузырька с водой, так как для него требуется ведро воды и четыре осколка призмарина, расположенных вокруг ведра, после чего вы получите три пузырька воды.
 
-![](public/throwable_fluids/Крафт_пузырька_воды.png)
+![](public/throwable_fluids/Craft-fluid-water.png)
 
 Пузырёк с лавой имеет схожий крафт как у воды, но по-сложнее,  так как он требует четыре сгустка взрывающийся магмы, на месте осколков призмарина у воды, а он крафтится из одного магмового сгустка, окружённого порохом и вы получите один сгусток взрывающийся магмы.
 
 <p float="left">
- <img src="public/throwable_fluids/Крафт_пузырька_лавы.png">
- <img src="public/throwable_fluids/Крафт_магмы.png">
+ <img src="public/throwable_fluids/Craft-fluid-lavaa.png">
+ <img src="public/throwable_fluids/Craft-exploding-magma.png">
 </p>
 
 ### Особенности
