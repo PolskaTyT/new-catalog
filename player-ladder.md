@@ -19,7 +19,7 @@ title: Player ladder
       <img src="public/player-ladder/Final-lore-ladder.png" width="20%;" alt>
       <figcaption>Лестница из игроков на предфинальном лоре</figcaption>
      <img src="public/player-ladder/Inhling-takes-the-dragon.jpg" width="20%;" alt>
-     <figcaption>Храбый и маленький инхлинг, тащит на себе пугливого 80 кг дракона в броне<</figcaption>
+     <figcaption>Храбый и маленький инхлинг, тащит на себе пугливого 80 кг дракона в броне</figcaption>
    </figure>
   </p> 
 
