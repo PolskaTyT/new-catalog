@@ -14,7 +14,7 @@ title: Elytra Trims
  <img src="public/Elytra-Trims/Making-trim-for-elytra.png" width="25%;">
 </p>
 
-Вот пример разукрашенных кварцом и ванильными шаблонами элитр:
+Вот пример элитр, разукрашенных кварцом и ванильными шаблонами:
 
 <p float=left>
   <img src="public/Elytra-Trims/Vanilla-elytra-trims-1.png" width="30%;">
